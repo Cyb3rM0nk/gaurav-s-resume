@@ -9,6 +9,6 @@ format is (Tag, skills, achievement, what I can bring to a company)
 
 ./4_Project.md has project done by self.
 
-./5_Certification.md mention certification achieved or pursuing by gaurav.
+./5_Certifications.md mention certification achieved or pursuing by gaurav.
 
 Also, make an Image of a cat holding VAPT.
